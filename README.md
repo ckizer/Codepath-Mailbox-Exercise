@@ -16,7 +16,3 @@ Walkthrough of Mailbox:
 
 ** One Optional: Panning from the edge should reveal the menu **
 * [x] _Optional: If the menu is being revealed when the user lifts their finger, it should continue revealing.
-
-
-#### Acknowledegment
-- GIF > Licecap http://www.cockos.com/licecap/
