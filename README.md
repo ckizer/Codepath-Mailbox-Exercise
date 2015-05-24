@@ -14,5 +14,5 @@ Walkthrough of Mailbox:
 ** Right Drag **
 * [x] Start as gray background, reveal icon, change background green
 
-** One Optional: Panning from the edge should reveal the menu **
-* [x] _Optional: If the menu is being revealed when the user lifts their finger, it should continue revealing.
+** One Optional: Edge pan gesture recognizer **
+* [x] Optional: Continue revealing menu when the user lifts their finger
